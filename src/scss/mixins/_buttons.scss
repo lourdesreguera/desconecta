@@ -1,0 +1,17 @@
+@import '../variables';
+
+@mixin base-button($has-border: false, $background-color: $primary) {
+  padding: 1.125rem;
+  border-radius: 0.3rem;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  width: fit-content;
+  background-color: $background-color;
+
+  @if $has-border {
+    border: 2px solid $text-color;
+  } @else {
+    border: none;
+  }
+}
