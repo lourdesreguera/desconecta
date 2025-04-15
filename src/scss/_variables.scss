@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap');
+
+// Typography
+$font-family: 'Poppins', sans-serif;
+
+$font-size-base: 1.25rem;
+$h2-font-size: 3.125rem;
+
+$font-weight-base: 400;
+$headings-font-weight: 800;
+
+$line-height-base: 1.5;
+$headings-line-height: 1.2;
+
+$headings-margin-bottom: 0;
+
+// Colors
+$primary: #ff302a;
+$grey: #f2f2f2;
+$text-color: #fff;
+
+$theme-colors: (
+  'primary': $primary,
+);
+
+@import 'bootstrap/scss/bootstrap';
