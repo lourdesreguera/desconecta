@@ -11,7 +11,7 @@
         <div class="collapse navbar-collapse justify-content-end" id="mainNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link text-end text-white" href="#">¿Qué es?</a>
+              <a class="nav-link text-end text-white" href="#about">¿Qué es?</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-end text-white" href="#">¿Qué vas a aprender?</a>
@@ -39,6 +39,5 @@ img {
 
 .navbar-icon {
   background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' fill='%23ff302a' viewBox='0 0 30 30'><path stroke='rgba(255, 255, 255, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
-
 }
 </style>
