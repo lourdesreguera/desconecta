@@ -5,7 +5,7 @@
     <div class="overlay position-absolute top-0 start-0 w-100"></div>
 
     <div
-      class="container-xxl position-relative z-2 text-white pb-5 px-sm-3 d-flex flex-column align-items-center align-items-md-start gap-3">
+      class="container-xxl position-relative text-white pb-5 px-sm-3 d-flex flex-column align-items-center align-items-md-start gap-3">
       <h1 class="text-center text-md-start">Protege tu bienestar digital</h1>
       <div class="col-lg-6 text-center text-md-start">
         <p>(des)CONECTA ofrece formación gratuita para enseñar a jóvenes de 10 a 18 años a usar la tecnología de forma
