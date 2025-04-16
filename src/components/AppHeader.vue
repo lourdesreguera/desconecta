@@ -14,7 +14,7 @@
               <a class="nav-link text-end text-white" href="#about">¿Qué es?</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-end text-white" href="#">¿Qué vas a aprender?</a>
+              <a class="nav-link text-end text-white" href="#learning">¿Qué vas a aprender?</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-end text-white" href="#">Solicita formación</a>
