@@ -11,7 +11,7 @@
         cómo esto puede afectar tanto a su salud física como mental. Cualquier centro educativo o entidad que trabaje en
         la educación de jóvenes puede solicitarlos.
       </p>
-      <button class="btn btn-primary base-btn">Solicita formación gratuita</button>
+      <a class="btn btn-primary base-btn" href="#form">Solicita formación gratuita</a>
       <img src="../assets/video.png" alt="Desconecta video" width="400" />
     </div>
   </section>

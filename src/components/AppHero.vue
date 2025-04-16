@@ -11,7 +11,7 @@
         <p>(des)CONECTA ofrece formación gratuita para enseñar a jóvenes de 10 a 18 años a usar la tecnología de forma
           segura y saludable, y conocer los riesgos del uso excesivo de pantallas en su salud física y mental.</p>
       </div>
-      <button class="btn btn-primary base-btn-border">Solicita formación gratuita</button>
+      <a class="btn btn-primary base-btn-border" href="#form">Solicita formación gratuita</a>
     </div>
   </section>
 </template>

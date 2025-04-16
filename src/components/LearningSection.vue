@@ -44,7 +44,7 @@ const data = [
           </div>
         </div>
       </div>
-      <button class="base-btn btn btn-primary mt-3">Solicita formación gratuita</button>
+      <a class="base-btn btn btn-primary mt-3" href="#form">Solicita formación gratuita</a>
     </div>
   </section>
 </template>
