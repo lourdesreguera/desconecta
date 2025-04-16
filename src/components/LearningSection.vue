@@ -35,7 +35,7 @@ const data = [
         el uso
         excesivo de pantallas puede afectar a su salud física y mental. Las personas participantes aprenderán a:
       </p>
-      <div class="container">
+      <div class="container card-container">
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-3">
           <div class="col d-flex justify-content-center"
             :class="{ 'mx-auto': data.length % 2 !== 0 && index === data.length - 1 }" v-for="(item, index) in data"
@@ -59,12 +59,8 @@ section {
 
 .main-container {
   background-color: $grey;
-  padding: 4rem 8rem 4rem 8rem;
+  padding: 4rem;
   border-radius: 3.125rem;
-
-  @media screen and (max-width: 1440px) {
-    padding: 4rem 6rem 4rem 6rem;
-  }
 
   @media screen and (max-width: 1024px) {
     padding: 4rem 2rem 4rem 2rem;
@@ -73,6 +69,10 @@ section {
   @media screen and (max-width: 425px) {
     padding: 4rem 1rem 4rem 1rem;
   }
+}
+
+.card-container {
+  max-width: 70rem;
 }
 
 .description-text {

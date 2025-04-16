@@ -3,6 +3,7 @@ import AppHeader from './components/AppHeader.vue';
 import AppHero from './components/AppHero.vue';
 import AboutSection from './components/AboutSection.vue';
 import LearningSection from './components/LearningSection.vue';
+import FormSection from './components/FormSection.vue';
 </script>
 
 <template>
@@ -11,6 +12,7 @@ import LearningSection from './components/LearningSection.vue';
     <AppHero />
     <AboutSection />
     <LearningSection />
+    <FormSection />
   </main>
 </template>
 
