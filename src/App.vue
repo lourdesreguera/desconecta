@@ -4,6 +4,7 @@ import AppHero from './components/AppHero.vue';
 import AboutSection from './components/AboutSection.vue';
 import LearningSection from './components/LearningSection.vue';
 import FormSection from './components/FormSection.vue';
+import AppFooter from './components/AppFooter.vue';
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import FormSection from './components/FormSection.vue';
     <LearningSection />
     <FormSection />
   </main>
+  <AppFooter />
 </template>
 
 <style scoped></style>

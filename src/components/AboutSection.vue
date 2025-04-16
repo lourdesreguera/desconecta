@@ -21,7 +21,7 @@
 @import '@/scss/mixins/_buttons.scss';
 
 section {
-  background-image: url('../assets/red-bg.png');
+  background-image: url('../assets/light-red-bg.png');
   background-repeat: no-repeat;
   background-size: 100% 60%;
   background-position: center bottom;
